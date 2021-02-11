@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/JharkhandTour/static/css/main.e800fd0b.chunk.css",
+    "main.js": "/JharkhandTour/static/js/main.4422af87.chunk.js",
+    "main.js.map": "/JharkhandTour/static/js/main.4422af87.chunk.js.map",
+    "runtime-main.js": "/JharkhandTour/static/js/runtime-main.0e744b76.js",
+    "runtime-main.js.map": "/JharkhandTour/static/js/runtime-main.0e744b76.js.map",
+    "static/js/2.82e310c5.chunk.js": "/JharkhandTour/static/js/2.82e310c5.chunk.js",
+    "static/js/2.82e310c5.chunk.js.map": "/JharkhandTour/static/js/2.82e310c5.chunk.js.map",
+    "static/js/3.a13938ed.chunk.js": "/JharkhandTour/static/js/3.a13938ed.chunk.js",
+    "static/js/3.a13938ed.chunk.js.map": "/JharkhandTour/static/js/3.a13938ed.chunk.js.map",
+    "index.html": "/JharkhandTour/index.html",
+    "static/css/main.e800fd0b.chunk.css.map": "/JharkhandTour/static/css/main.e800fd0b.chunk.css.map",
+    "static/js/2.82e310c5.chunk.js.LICENSE.txt": "/JharkhandTour/static/js/2.82e310c5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/JharkhandTour/static/media/backg.c9cdc435.jpg",
+    "static/media/logo.6ce24c58.svg": "/JharkhandTour/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e744b76.js",
+    "static/js/2.82e310c5.chunk.js",
+    "static/css/main.e800fd0b.chunk.css",
+    "static/js/main.4422af87.chunk.js"
+  ]
+}
